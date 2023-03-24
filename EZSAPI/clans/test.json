@@ -4,15 +4,15 @@
   "tier": 1,
   "players": [
     {
-      "name": "PLAYERNAME",
-      "role": "PLAYERROLE",
-      "region": "PLAYERREGION"
+      "name": "Creaffy",
+      "role": "Leader",
+      "region": "EU"
     },
     {
-      "name": "PLAYERNAME2",
-      "role": "PLAYERROLE2",
-      "region": "PLAYERREGION2"
+      "name": "Zatake",
+      "role": "Representative",
+      "region": "EU"
     }
   ],
-  "tournaments_won": ["TOURNAMENTID", "TOURNAMENTID2", "TOURNAMENTID3"]
+  "tournaments_won": ["u1ix-1pe2-s2dd", "ahe2-n3u7-2mfa", "ahda-83nh-almr"]
 }
