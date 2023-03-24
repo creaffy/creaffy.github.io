@@ -1,0 +1,18 @@
+{
+  "name": "Totally Real Clan",
+  "tag": "TRC",
+  "tier": 1,
+  "players": [
+    {
+      "name": "PLAYERNAME",
+      "role": "PLAYERROLE",
+      "region": "PLAYERREGION"
+    },
+    {
+      "name": "PLAYERNAME2",
+      "role": "PLAYERROLE2",
+      "region": "PLAYERREGION2"
+    }
+  ],
+  "tournaments_won": ["TOURNAMENTID", "TOURNAMENTID2", "TOURNAMENTID3"]
+}
